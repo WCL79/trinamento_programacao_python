@@ -1,4 +1,4 @@
-<img src="aula_python\image"  alt="Logo Python" title="Logo Python"></img>
+<img src="https://github.com/WCL79/trinamento_programacao_python/blob/master/aula_python/image/python.jpg"  alt="Logo Python" title="Logo Python"></img>
 <h1 align="center" id="topo">Python</h1>
 
  Muitos programadores, de forma equivocada, acabam polarizando o desenvolvimento de sistemas nas linguagens: Java e C#. Ao fazer isso, deixam de perceber que a programação não evolui de forma dependente do avanço dessas tecnologias. Ambas são ótimas opções, mas estão longe de serem as melhores alternativas para tudo. Na verdade, a cada ano, novas linguagens são criadas com diferentes características e diferentes propósitos, atendendo, de forma cada vez mais precisa, determinados tipos de projeto.
