@@ -8,5 +8,15 @@ Um bom exemplo disso é a linguagem Python. Publicado em 1991, o Python traz car
 <a href="https://www.devmedia.com.br/guia/python/37024">DEVMEDIA</a>
 
 <h3>Sumário</h3>
-
+<ul>
+	<a href="https://www.youtube.com/watch?v=Ay-MakuSg08&list=PLx4x_zx8csUhuVgWfy7keQQAy7t1J35TR&index=2&ab_channel=CFBCursos">
+		<img src="aula_python/image/LOGO3-CFB-SITE-450x155.png" min-width="350px" max-width="350px" width="350px" align="right"  alt="CFB Cursos" title="CFB Cursos">
+	</a>
+	<li><a href="#apresentacao">Conteúdo</a></li>
+	<ul>
+		<li><a href="https://www.youtube.com/watch?v=Ay-MakuSg08&list=PLx4x_zx8csUhuVgWfy7keQQAy7t1J35TR&index=2&ab_channel=CFBCursos">Instalação e primeiro programa - Curso de Python #01</a></li>
+		<li><a href="https://www.youtube.com/watch?v=5JdEoBZYHFY&list=PLx4x_zx8csUhuVgWfy7keQQAy7t1J35TR&index=2&ab_channel=CFBCursos ">Sintaxe básica P2 e Comentários - Curso de Python #02</a></li>
+		<li><a href="https://www.youtube.com/watch?v=_p4dPzetzpE&list=PLx4x_zx8csUhuVgWfy7keQQAy7t1J35TR&index=4&ab_channel=CFBCursos ">Variáveis em Python - Curso de Python #03</a></li>
+	</ul>
+</ul>
 
