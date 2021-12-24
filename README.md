@@ -10,7 +10,7 @@ Um bom exemplo disso é a linguagem Python. Publicado em 1991, o Python traz car
 <h3>Sumário</h3>
 <ul>
 	<a href="https://www.youtube.com/watch?v=Ay-MakuSg08&list=PLx4x_zx8csUhuVgWfy7keQQAy7t1J35TR&index=2&ab_channel=CFBCursos">
-		<img src="aula_python/image/LOGO3-CFB-SITE-450x155.png" min-width="350px" max-width="350px" width="350px" align="right"  alt="CFB Cursos" title="CFB Cursos">
+		<img src="aula_python_cfbcursos/image/python.jpg" min-width="350px" max-width="350px" width="350px" align="right"  alt="CFB Cursos" title="CFB Cursos">
 	</a>
 	<li><a href="#apresentacao">Conteúdo</a></li>
 	<ul>
